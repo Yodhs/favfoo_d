@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: mediumseagreen;
+}
+#picture{
+    width: 300px;
+}
+#picture2{
+    width: 340px;
+}
+.menu{
+    text-decoration-color: darkcyan;
+    float:right;
+    right: 50px;
+    top:30px;
+    list-style: disc;
+    font-family: cursive;
+}
+#Head{
+    font-family: monospace;
+    color:darkorange;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
